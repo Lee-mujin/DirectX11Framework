@@ -1,3 +1,5 @@
 # DirectX11 Framework
 
-![스샷](Images/BasicFlatGrid.png)
+![BasicFlatGrid](DirectXProj/Images/BasicFlatGrid.png)
+
+![HeightMap](DirectXProj/Images/HeightMap.png)
