@@ -1,3 +1,3 @@
 # DirectX11 Framework
 
-![Screenshot](Images/BasicFlatGrid.png)
+![게임 화면](Images/BasicFlatGrid.png)
